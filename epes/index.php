@@ -124,7 +124,7 @@
   <footer class="main-footer">
     
     <div class="float-right d-none d-sm-inline-block">
-      <b><?php echo 'DEVELOPED BY AMAN KUMAR PANDEY' ?></b>
+      <b><?php echo 'DEVELOPED BY OISHWARJYA BANERJEE' ?></b>
     </div>
   </footer>
 </div>
